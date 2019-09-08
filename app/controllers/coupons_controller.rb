@@ -17,7 +17,7 @@ class CouponsController < ApplicationController
   
   def create 
     @coupon = Coupon.new
-    coupon_code = 
+    @coupon[coupon_code]= 
     
     
     
